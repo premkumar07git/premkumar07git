@@ -44,8 +44,8 @@
 
   
 
-  <a href="https://youtube.com/EduMikeStudio">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  <a href="https://leetcode.com/u/jacksrm07/">
+    <img src="https://img.shields.io/badge/LeetCode-FF0000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
